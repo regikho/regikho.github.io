@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c45060b.css",
+    "main.js": "/static/js/main.598723dd.js",
+    "static/js/787.921a87ab.chunk.js": "/static/js/787.921a87ab.chunk.js",
+    "static/media/gothampro.ttf": "/static/media/gothampro.4f71921a0823129cd8ba.ttf",
+    "static/media/magnifying-glass.svg": "/static/media/magnifying-glass.8352c48add9b43aa8a6c.svg",
+    "index.html": "/index.html",
+    "main.2c45060b.css.map": "/static/css/main.2c45060b.css.map",
+    "main.598723dd.js.map": "/static/js/main.598723dd.js.map",
+    "787.921a87ab.chunk.js.map": "/static/js/787.921a87ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c45060b.css",
+    "static/js/main.598723dd.js"
+  ]
+}
